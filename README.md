@@ -3,6 +3,7 @@
 ## Topic : SP500_Project
 
 By 1: Thitiwat Tanasuthiseri 6510422015
+
    2: Suthida Jumlongrasd  6510422025
 ## Dataset
 1.S&P 500 Index 
@@ -11,7 +12,7 @@ By 1: Thitiwat Tanasuthiseri 6510422015
   
 2.S&P 500 Price//Golg spot // Nasdaq 
   
-  source : 
+  source : http://www.aspen4browser.com/
   
 3.Set 50 Index Price
 
@@ -37,7 +38,7 @@ By 1: Thitiwat Tanasuthiseri 6510422015
 
 3.วิเคราะห์ Maximum drawdow และผลตอบแทนในการลงทุนในแต่ละปี
 
-4.เพื่อศึกษา correration ระหว่าง S&P500 กับ ดัชนี Indexอื่นๆ Bond Yield และตัวเลขเศรษฐกิจ ต่างๆ
+4.เพื่อศึกษา correlation ระหว่าง S&P500 กับ ดัชนี Indexอื่นๆ Bond Yield และตัวเลขเศรษฐกิจ ต่างๆ
 
 5.สรุปผลเพื่อนดู อัตราผลตอบแทนว่าลงทุนใน สินทรัพย์ไหน ให้ผลตอบแทนดีที่สุด
 
