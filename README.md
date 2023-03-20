@@ -22,7 +22,7 @@ By 1: Thitiwat Tanasuthiseri 6510422015
 
   source : https://dqydj.com/sp-500-dividend-yield/
   
-5.ตัวเลข CPI // PPI
+5.ตัวเลข CPI 
 
   source : https://fred.stlouisfed.org/series/CPIAUCSL
   
