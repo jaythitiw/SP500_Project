@@ -47,7 +47,7 @@ S&P 500 คือ ดัชนีตลาดหุ้นที่ติดต�
 ตัวอย่าง บริษัท ที่อยู่ใน ดัชนี S&P 500 เช่น Amazon,American Airlines Group,Bank of America, BlackRock, CME Group, Apple, Facebook, Microsoft, Google และ Tesla เป็นต้น
 
 * S&P500 มี Sector ใดบ้าง และ Sector ไหนมากที่สุด
-   ![image](https://user-images.githubusercontent.com/114090355/226168124-0faf6aa6-d986-4bf1-8163-9b6e1dbe19cb.png)
+   ![image](https://user-images.githubusercontent.com/114090355/226818307-1f2747cd-29fd-4a0c-afc6-8196cc238adf.png)
    ![image](https://user-images.githubusercontent.com/114090355/226168335-60a82bcf-fce0-4a47-9373-95fe194704f1.png)
    ![image](https://user-images.githubusercontent.com/114090355/226170306-1e49cf24-aa2f-494b-83ad-f1d5cca7aa99.png)
 
